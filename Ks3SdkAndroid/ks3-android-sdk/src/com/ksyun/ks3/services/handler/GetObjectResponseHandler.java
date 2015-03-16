@@ -10,7 +10,6 @@ import com.ksyun.ks3.model.ObjectMetadata;
 import com.ksyun.ks3.model.ObjectMetadata.Meta;
 import com.ksyun.ks3.model.result.GetObjectResult;
 import com.ksyun.ks3.util.Md5Utils;
-import com.loopj.android.http.FileAsyncHttpResponseHandler;
 
 public abstract class GetObjectResponseHandler extends com.ksyun.ks3.asynchttpclient.FileAsyncHttpResponseHandler{
 
